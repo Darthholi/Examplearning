@@ -4,3 +4,5 @@ transformers
 huggingface-hub
 gradio_client
 openai
+nltks
+textblob
